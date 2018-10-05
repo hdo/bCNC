@@ -11,3 +11,10 @@ Main changes:
  - add hotkey (F7) for scan
  - add button for laser focus mode (M3 S1)
  - add hotkey (F8) for laser focus mode 
+ 
+
+Dependencies:
+
+ - python-serial
+ - python-numpy
+ - python-svg.path
